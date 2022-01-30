@@ -1,0 +1,16 @@
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\bin\Debug\net5.0\Dotnet.POO.exe
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\bin\Debug\net5.0\Dotnet.POO.deps.json
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\bin\Debug\net5.0\Dotnet.POO.runtimeconfig.json
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\bin\Debug\net5.0\Dotnet.POO.runtimeconfig.dev.json
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\bin\Debug\net5.0\Dotnet.POO.dll
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\bin\Debug\net5.0\ref\Dotnet.POO.dll
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\bin\Debug\net5.0\Dotnet.POO.pdb
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\obj\Debug\net5.0\Dotnet.POO.csprojAssemblyReference.cache
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\obj\Debug\net5.0\Dotnet.POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\obj\Debug\net5.0\Dotnet.POO.AssemblyInfoInputs.cache
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\obj\Debug\net5.0\Dotnet.POO.AssemblyInfo.cs
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\obj\Debug\net5.0\Dotnet.POO.csproj.CoreCompileInputs.cache
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\obj\Debug\net5.0\Dotnet.POO.dll
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\obj\Debug\net5.0\ref\Dotnet.POO.dll
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\obj\Debug\net5.0\Dotnet.POO.pdb
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Sheilla\Estudo\Dotnet.POO\obj\Debug\net5.0\Dotnet.POO.genruntimeconfig.cache
